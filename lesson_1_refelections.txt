@@ -1,0 +1,37 @@
+Viewing with diff the differences between the versions of the file took a while.
+
+I don't have  lot of thoughts on the matter
+
+
+diff -u file1.txt file2.txt
+
+
+How could haveing sasy accesss to entire history of file make you a better progeammer?
+
+you can more easily role back to a previous version if you make a mistake. If you wanted to have 
+such access 
+
+Reflect manual commits
+
+pros and cons of having versions automatically saved?
+too many save points to deal with if you want to revert something
+
+
+how can you use git log and git diff to view the difference between files?
+you use git log to get the commit ids to plug into git diff which shows you the difference
+
+
+git checkout commitID
+
+how might using version control maek you more confident to make changes to something?
+if you know you can find the break more easily and roll back, you are comfortable making changes
+
+How do you want to use git?
+I want to use it to become a better programmer
+
+remember that git checkout doesnt always change all the files
+
+
+
+
+
