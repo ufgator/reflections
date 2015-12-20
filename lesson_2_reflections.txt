@@ -1,0 +1,37 @@
+How can you use the staging area to make sure that you have one commit per logical change?
+
+You could ensure that you only have one file in the staging area (the one with the logical change). 
+This ensures that there will only be one commit per logical change.
+
+
+git 
+-experimental feature
+-master
+-italian version
+
+When are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Situations where things are experimental. The branch allows you to more easily go back to the original code or merger with it. 
+
+
+git log --graph --onelines
+
+merge coin branch into master branch
+
+git reset --hard HEAD~1
+
+git show
+
+what are the pros and cons of git's automatic merging vs always doing merges manually?
+
+gits automatic merging works
+
+git remote
+
+git remote -v
+
+
+git remote add origin
+
+standard to name one remote "origin"
+
