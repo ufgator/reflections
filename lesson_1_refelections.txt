@@ -31,7 +31,15 @@ I want to use it to become a better programmer
 
 remember that git checkout doesnt always change all the files
 
+git init 
 
+
+git diff (no args)
+
+git diff --staged	
+
+
+new
 
 
 
